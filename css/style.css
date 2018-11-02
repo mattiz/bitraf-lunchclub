@@ -1,0 +1,7 @@
+body {
+    background-color: slategray;
+}
+
+.list-group-item {
+    margin-bottom: 5px;
+}
