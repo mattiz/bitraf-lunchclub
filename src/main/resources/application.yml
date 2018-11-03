@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://172.17.0.1/lunchclub?serverTimezone=UTC
+    username: lunchclub
+    password: lunchclub
+
+  jpa:
+    hibernate:
+      ddl-auto: create

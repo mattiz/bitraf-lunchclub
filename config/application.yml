@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://localhost/lunchclub?serverTimezone=UTC
-    username: root
-    password: JN9eMa7
-
-  jpa:
-    hibernate:
-      ddl-auto: create
