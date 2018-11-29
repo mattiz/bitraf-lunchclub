@@ -49,15 +49,15 @@ export default {
       people: [
         {
           name: 'Mariann Orvedal',
-          photo: 'assets/1.jpg'
+          photo: require('../assets/1.jpg')
         },
         {
           name: 'Eskil Bjerke',
-          photo: 'assets/2.jpg'
+          photo: require('../assets/2.jpg')
         },
         {
           name: 'Marius Nettum',
-          photo: 'assets/3.jpg'
+          photo: require('../assets/3.jpg')
         }
       ]
     }
